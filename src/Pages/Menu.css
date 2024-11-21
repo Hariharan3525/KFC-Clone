@@ -1,0 +1,5 @@
+.sidebar{
+  position: sticky;
+  top: 168px;
+  height: 100vh;
+}
